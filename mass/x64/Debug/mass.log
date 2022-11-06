@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Марк\source\repos\mass\Source.cpp(54,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Марк\source\repos\mass\Source.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  mass.vcxproj -> C:\Users\Марк\source\repos\mass\x64\Debug\mass.exe
